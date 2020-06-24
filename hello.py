@@ -8,5 +8,6 @@ elif ask_user =='bad':
 else:
     print('I hope that everything\'s okey!')
 
-
 print('MATH lib OK')
+print('TEXT lib completed')
+
