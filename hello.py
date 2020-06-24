@@ -7,5 +7,6 @@ elif ask_user =='bad':
     print('Do not feel bad, everything will be okey!!')
 else:
     print('I hope that everything\'s okey!')
-print('Math lib is on the way')
-print('Text lib is on the way, too')
+
+
+print('MATH lib OK')
