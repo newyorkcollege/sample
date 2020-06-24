@@ -8,3 +8,4 @@ elif ask_user =='bad':
 else:
     print('I hope that everything\'s okey!')
 print('Math lib is on the way')
+print('Text lib is on the way, too')
