@@ -10,5 +10,5 @@ else:
 
 print('MATH lib OK')
 print('TEXT lib completed')
-print('Creating the graphics lib')
+print('GRAPHICS lib created')
 
