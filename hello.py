@@ -9,5 +9,5 @@ else:
     print('I hope that everything\'s okey!')
 
 print('MATH lib OK')
-print('TEXT lib completed')
-
+print('TEXT lib OK')
+print("Graphics lib OK")
