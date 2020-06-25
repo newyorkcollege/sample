@@ -1,0 +1,2 @@
+def about():
+    print("Graphics")
