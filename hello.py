@@ -11,3 +11,5 @@ else:
 print('MATH lib OK')
 print('TEXT lib OK')
 print("Graphics lib OK")
+
+print('Doing another git and github experiment')
