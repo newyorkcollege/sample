@@ -3,3 +3,6 @@ def login(username, password):
         print("Welcome")
     else:
         print("No access")
+
+def logout():
+    print("Buy!")
