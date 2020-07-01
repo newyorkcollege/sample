@@ -11,4 +11,4 @@ else:
 print('MATH lib OK')
 print('TEXT lib OK')
 print("Graphics lib OK")
-print('Login OK')
+print('Login lib OK')
