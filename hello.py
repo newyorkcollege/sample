@@ -8,7 +8,7 @@ elif ask_user =='bad':
 else:
     print('I hope that everything\'s okey!')
 
-print('MATH lib OK')
-print('TEXT lib OK')
-print("Graphics lib OK")
-print('Login OK')
+print('MATH lib is now OK')
+print('TEXT lib is now OK')
+print("Graphics lib is now OK")
+print('Login is now OK')
