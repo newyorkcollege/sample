@@ -12,3 +12,4 @@ print('MATH lib is now OK')
 print('TEXT lib is now OK')
 print("Graphics lib is now OK")
 print('Login is now OK')
+
