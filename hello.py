@@ -14,5 +14,5 @@ print("Graphics lib is now OK")
 print('Login is now OK')
 print("Testing github")
 
-print('Totorial for the S.E. class')
-
+print('Tutorial for the S.E. class')
+print('New git test')
